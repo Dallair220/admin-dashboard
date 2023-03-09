@@ -1,6 +1,6 @@
 # admin-dashboard
 Odin Project Assignment
 
-Learning Grid!
+Learning css grid
 
 View: https://dallair220.github.io/admin-dashboard/
